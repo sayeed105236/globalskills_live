@@ -1,0 +1,472 @@
+Uri: https://fonts.gstatic.com/l/font?kit=AcvTq8Q0lyKKNxRlL28Rn5bd9NUM7myrQQz30yPaGQ4&skey=5334e9c0b67702e2&v=v14
+File Name: C:\New\www.lsrgrowth.com\l\font-3.svg
+Content Type: image/svg+xml
+
+Uri: https://fonts.gstatic.com/l/font?kit=adjMoXVaHbO08wMAF5yDsA&skey=3480a19627739c0d&v=v14
+File Name: C:\New\www.lsrgrowth.com\l\font-1.svg
+Content Type: image/svg+xml
+
+Uri: https://fonts.gstatic.com/l/font?kit=I5jxx2JZduMchyTN9Dgylg&skey=91f32e07d083dd3a&v=v14
+File Name: C:\New\www.lsrgrowth.com\l\font.svg
+Content Type: image/svg+xml
+
+Uri: https://fonts.gstatic.com/l/font?kit=XNVd6tsqi9wmKNvnh5HNEJbd9NUM7myrQQz30yPaGQ4&skey=8107d606b7e3d38e&v=v14
+File Name: C:\New\www.lsrgrowth.com\l\font-2.svg
+Content Type: image/svg+xml
+
+Uri: https://fonts.gstatic.com/s/lato/v14/2hXzmNaFRuKTSBR9nRGO-A.woff2
+File Name: C:\New\www.lsrgrowth.com\s\lato\v14\2hXzmNaFRuKTSBR9nRGO-A.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/lato/v14/6TEmgPQ_0ZdLPE7b6hhIjQ.eot?
+File Name: C:\New\www.lsrgrowth.com\s\lato\v14\6TEmgPQ_0ZdLPE7b6hhIjQ.eot
+Content Type: font/eot
+
+Uri: https://fonts.gstatic.com/s/lato/v14/7nLfsQCzhQW_PwpkrwroYw.woff2
+File Name: C:\New\www.lsrgrowth.com\s\lato\v14\7nLfsQCzhQW_PwpkrwroYw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/lato/v14/AcvTq8Q0lyKKNxRlL28Rn1tXRa8TVwTICgirnJhmVJw.woff2
+File Name: C:\New\www.lsrgrowth.com\s\lato\v14\AcvTq8Q0lyKKNxRlL28Rn1tXRa8TVwTICgirnJhmVJw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/lato/v14/AcvTq8Q0lyKKNxRlL28Rn6CWcynf_cDxXwCLxiixG1c.ttf
+File Name: C:\New\www.lsrgrowth.com\s\lato\v14\AcvTq8Q0lyKKNxRlL28Rn6CWcynf_cDxXwCLxiixG1c.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v14/AcvTq8Q0lyKKNxRlL28Rnz8E0i7KZn-EPnyo3HZu7kw.woff
+File Name: C:\New\www.lsrgrowth.com\s\lato\v14\AcvTq8Q0lyKKNxRlL28Rnz8E0i7KZn-EPnyo3HZu7kw.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/lato/v14/AcvTq8Q0lyKKNxRlL28Rn_Y6323mHUZFJMgTvxaG2iE.eot?
+File Name: C:\New\www.lsrgrowth.com\s\lato\v14\AcvTq8Q0lyKKNxRlL28Rn_Y6323mHUZFJMgTvxaG2iE.eot
+Content Type: font/eot
+
+Uri: https://fonts.gstatic.com/s/lato/v14/BTu4SsVveqk58cdYjlaM9g.ttf
+File Name: C:\New\www.lsrgrowth.com\s\lato\v14\BTu4SsVveqk58cdYjlaM9g.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v14/I1Pn3gihk5vyP0Yw5GqKsQ.woff
+File Name: C:\New\www.lsrgrowth.com\s\lato\v14\I1Pn3gihk5vyP0Yw5GqKsQ.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/lato/v14/KDRyPGFdQxeFClMSxPKQ3w.eot?
+File Name: C:\New\www.lsrgrowth.com\s\lato\v14\KDRyPGFdQxeFClMSxPKQ3w.eot
+Content Type: font/eot
+
+Uri: https://fonts.gstatic.com/s/lato/v14/kU6VHbqMAZhaN_nXCmLQsQ.woff
+File Name: C:\New\www.lsrgrowth.com\s\lato\v14\kU6VHbqMAZhaN_nXCmLQsQ.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/lato/v14/XNVd6tsqi9wmKNvnh5HNED8E0i7KZn-EPnyo3HZu7kw.woff
+File Name: C:\New\www.lsrgrowth.com\s\lato\v14\XNVd6tsqi9wmKNvnh5HNED8E0i7KZn-EPnyo3HZu7kw.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/lato/v14/XNVd6tsqi9wmKNvnh5HNEFtXRa8TVwTICgirnJhmVJw.woff2
+File Name: C:\New\www.lsrgrowth.com\s\lato\v14\XNVd6tsqi9wmKNvnh5HNEFtXRa8TVwTICgirnJhmVJw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/lato/v14/XNVd6tsqi9wmKNvnh5HNEKCWcynf_cDxXwCLxiixG1c.ttf
+File Name: C:\New\www.lsrgrowth.com\s\lato\v14\XNVd6tsqi9wmKNvnh5HNEKCWcynf_cDxXwCLxiixG1c.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v14/XNVd6tsqi9wmKNvnh5HNEPY6323mHUZFJMgTvxaG2iE.eot?
+File Name: C:\New\www.lsrgrowth.com\s\lato\v14\XNVd6tsqi9wmKNvnh5HNEPY6323mHUZFJMgTvxaG2iE.eot
+Content Type: font/eot
+
+Uri: https://fonts.gstatic.com/s/lato/v14/zpv3sOKAbMf4wff105oLjw.ttf
+File Name: C:\New\www.lsrgrowth.com\s\lato\v14\zpv3sOKAbMf4wff105oLjw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v16/S6u8w4BMUTPHjxsAUi-qNiXg7eU0.woff2
+File Name: C:\New\www.lsrgrowth.com\s\lato\v16\S6u8w4BMUTPHjxsAUi-qNiXg7eU0.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/lato/v16/S6u8w4BMUTPHjxsAXC-qNiXg7Q.woff2
+File Name: C:\New\www.lsrgrowth.com\s\lato\v16\S6u8w4BMUTPHjxsAXC-qNiXg7Q.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/lato/v16/S6u9w4BMUTPHh6UVSwaPGQ3q5d0N7w.woff2
+File Name: C:\New\www.lsrgrowth.com\s\lato\v16\S6u9w4BMUTPHh6UVSwaPGQ3q5d0N7w.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/lato/v16/S6u9w4BMUTPHh6UVSwiPGQ3q5d0.woff2
+File Name: C:\New\www.lsrgrowth.com\s\lato\v16\S6u9w4BMUTPHh6UVSwiPGQ3q5d0.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/lato/v16/S6uyw4BMUTPHjx4wXiWtFCc.woff2
+File Name: C:\New\www.lsrgrowth.com\s\lato\v16\S6uyw4BMUTPHjx4wXiWtFCc.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/lato/v16/S6uyw4BMUTPHjxAwXiWtFCfQ7A.woff2
+File Name: C:\New\www.lsrgrowth.com\s\lato\v16\S6uyw4BMUTPHjxAwXiWtFCfQ7A.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/lato/v16/S6u_w4BMUTPHjxsI5wq_FQftx9897sxZ.woff2
+File Name: C:\New\www.lsrgrowth.com\s\lato\v16\S6u_w4BMUTPHjxsI5wq_FQftx9897sxZ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/lato/v16/S6u_w4BMUTPHjxsI5wq_Gwftx9897g.woff2
+File Name: C:\New\www.lsrgrowth.com\s\lato\v16\S6u_w4BMUTPHjxsI5wq_Gwftx9897g.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/noticiatext/v9/VuJ2dNDF2Yv9qppOePKYRP12aDtYlUndpAjt.woff2
+File Name: C:\New\www.lsrgrowth.com\s\noticiatext\v9\VuJ2dNDF2Yv9qppOePKYRP12aDtYlUndpAjt.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/noticiatext/v9/VuJ2dNDF2Yv9qppOePKYRP12aTtYlUndpAjt.woff2
+File Name: C:\New\www.lsrgrowth.com\s\noticiatext\v9\VuJ2dNDF2Yv9qppOePKYRP12aTtYlUndpAjt.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/noticiatext/v9/VuJ2dNDF2Yv9qppOePKYRP12ZjtYlUndpA.woff2
+File Name: C:\New\www.lsrgrowth.com\s\noticiatext\v9\VuJ2dNDF2Yv9qppOePKYRP12ZjtYlUndpA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/noticiatext/v9/VuJodNDF2Yv9qppOePKYRP12Ywtan07_pjjs.woff2
+File Name: C:\New\www.lsrgrowth.com\s\noticiatext\v9\VuJodNDF2Yv9qppOePKYRP12Ywtan07_pjjs.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/noticiatext/v9/VuJodNDF2Yv9qppOePKYRP12YwtUn07_pjjsQdA.woff2
+File Name: C:\New\www.lsrgrowth.com\s\noticiatext\v9\VuJodNDF2Yv9qppOePKYRP12YwtUn07_pjjsQdA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/noticiatext/v9/VuJodNDF2Yv9qppOePKYRP12YwtVn07_pjjsQdA.woff2
+File Name: C:\New\www.lsrgrowth.com\s\noticiatext\v9\VuJodNDF2Yv9qppOePKYRP12YwtVn07_pjjsQdA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/noticiatext/v9/VuJpdNDF2Yv9qppOePKYRP1-3R5Nt2vQjjLkeenz.woff2
+File Name: C:\New\www.lsrgrowth.com\s\noticiatext\v9\VuJpdNDF2Yv9qppOePKYRP1-3R5Nt2vQjjLkeenz.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/noticiatext/v9/VuJpdNDF2Yv9qppOePKYRP1-3R5NtmvQjjLkeenz.woff2
+File Name: C:\New\www.lsrgrowth.com\s\noticiatext\v9\VuJpdNDF2Yv9qppOePKYRP1-3R5NtmvQjjLkeenz.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/noticiatext/v9/VuJpdNDF2Yv9qppOePKYRP1-3R5NuGvQjjLkeQ.woff2
+File Name: C:\New\www.lsrgrowth.com\s\noticiatext\v9\VuJpdNDF2Yv9qppOePKYRP1-3R5NuGvQjjLkeQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/noticiatext/v9/VuJrdNDF2Yv9qppOePKYRP12YwPhulvchDXGe9nyfeU.woff2
+File Name: C:\New\www.lsrgrowth.com\s\noticiatext\v9\VuJrdNDF2Yv9qppOePKYRP12YwPhulvchDXGe9nyfeU.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/noticiatext/v9/VuJrdNDF2Yv9qppOePKYRP12YwPhulvdhDXGe9nyfeU.woff2
+File Name: C:\New\www.lsrgrowth.com\s\noticiatext\v9\VuJrdNDF2Yv9qppOePKYRP12YwPhulvdhDXGe9nyfeU.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/noticiatext/v9/VuJrdNDF2Yv9qppOePKYRP12YwPhulvShDXGe9ny.woff2
+File Name: C:\New\www.lsrgrowth.com\s\noticiatext\v9\VuJrdNDF2Yv9qppOePKYRP12YwPhulvShDXGe9ny.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/raleway/v26/1Ptsg8zYS_SKggPNyCg4Q4FqL_KWxWMT.woff2
+File Name: C:\New\www.lsrgrowth.com\s\raleway\v26\1Ptsg8zYS_SKggPNyCg4Q4FqL_KWxWMT.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/raleway/v26/1Ptsg8zYS_SKggPNyCg4QIFqL_KWxWMT.woff2
+File Name: C:\New\www.lsrgrowth.com\s\raleway\v26\1Ptsg8zYS_SKggPNyCg4QIFqL_KWxWMT.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/raleway/v26/1Ptsg8zYS_SKggPNyCg4QoFqL_KWxWMT.woff2
+File Name: C:\New\www.lsrgrowth.com\s\raleway\v26\1Ptsg8zYS_SKggPNyCg4QoFqL_KWxWMT.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/raleway/v26/1Ptsg8zYS_SKggPNyCg4SYFqL_KWxWMT.woff2
+File Name: C:\New\www.lsrgrowth.com\s\raleway\v26\1Ptsg8zYS_SKggPNyCg4SYFqL_KWxWMT.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/raleway/v26/1Ptsg8zYS_SKggPNyCg4TYFqL_KWxQ.woff2
+File Name: C:\New\www.lsrgrowth.com\s\raleway\v26\1Ptsg8zYS_SKggPNyCg4TYFqL_KWxQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/raleway/v26/1Ptug8zYS_SKggPNyC0IT4ttDfA.woff2
+File Name: C:\New\www.lsrgrowth.com\s\raleway\v26\1Ptug8zYS_SKggPNyC0IT4ttDfA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/raleway/v26/1Ptug8zYS_SKggPNyCAIT4ttDfCmxA.woff2
+File Name: C:\New\www.lsrgrowth.com\s\raleway\v26\1Ptug8zYS_SKggPNyCAIT4ttDfCmxA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/raleway/v26/1Ptug8zYS_SKggPNyCIIT4ttDfCmxA.woff2
+File Name: C:\New\www.lsrgrowth.com\s\raleway\v26\1Ptug8zYS_SKggPNyCIIT4ttDfCmxA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/raleway/v26/1Ptug8zYS_SKggPNyCkIT4ttDfCmxA.woff2
+File Name: C:\New\www.lsrgrowth.com\s\raleway\v26\1Ptug8zYS_SKggPNyCkIT4ttDfCmxA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/raleway/v26/1Ptug8zYS_SKggPNyCMIT4ttDfCmxA.woff2
+File Name: C:\New\www.lsrgrowth.com\s\raleway\v26\1Ptug8zYS_SKggPNyCMIT4ttDfCmxA.woff2
+Content Type: font/woff2
+
+Uri: https://polyfill.io/v3/polyfill.min.js?features=fetch
+File Name: C:\New\www.lsrgrowth.com\v3\polyfill.min.js
+Content Type: text/javascript
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?beckyExperiments=specs.thunderbolt.oneCellGridMinMax:true%2Cspecs.thunderbolt.responsiveAbsoluteChildrenPosition:true%2Cspecs.thunderbolt.byRefV2:true%2Cspecs.thunderbolt.DatePickerPortal:true%2Cspecs.thunderbolt.LinkBarPlaceholderImages:true%2Cspecs.thunderbolt.carmi_simple_mode:true%2Cspecs.thunderbolt.final_image_auto_encode:true%2Cspecs.thunderbolt.prefetchComponentsShapesInBecky:true%2Cspecs.thunderbolt.inflatePresetsWithNoDefaultItems:true%2Cspecs.thunderbolt.maskImageCSS:true&contentType=application%2Fjson&deviceType=Desktop&dfCk=6&dfVersion=1.1581.0&excludedSafariOrIOS=false&experiments=aaa-rotem-test-fatafixer%2Cbv_removeMenuDataFromPageJson%2Cbv_remove_add_chat_viewer_fixer%2Cdm_enableDefaultA11ySettings%2Cdm_fixStylableButtonProperties%2Cdm_fixVectorImageProperties%2Cdm_linkRelDefaults%2Cdm_migrateToTextTheme&externalBaseUrl=https:%2F%2Fwww.lsrgrowth.com&fileId=27de6b55.bundle.min&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isMultilingualEnabled=false&isPremiumDomain=true&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=en&languageResolutionMethod=QueryParam&metaSiteId=0d5ac8cd-9c11-419f-b569-a2e36c4dc0e1&module=thunderbolt-features&originalLanguage=en&pageId=b2bb1c_df4c6da14a8956f30885ddcb087fa53c_153.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.8014.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.8014.0"}]&remoteWidgetStructureBuilderVersion=1.229.0&siteId=d12c26e8-a588-43b9-bdd7-3b61d0b18a15&siteRevision=153&staticHTMLComponentUrl=https:%2F%2Fwww-lsrgrowth-com.filesusr.com%2F&useSandboxInHTMLComp=false&viewMode=desktop
+File Name: C:\New\www.lsrgrowth.com\pages\pages\thunderbolt-2
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?beckyExperiments=specs.thunderbolt.oneCellGridMinMax:true%2Cspecs.thunderbolt.responsiveAbsoluteChildrenPosition:true%2Cspecs.thunderbolt.byRefV2:true%2Cspecs.thunderbolt.DatePickerPortal:true%2Cspecs.thunderbolt.LinkBarPlaceholderImages:true%2Cspecs.thunderbolt.carmi_simple_mode:true%2Cspecs.thunderbolt.final_image_auto_encode:true%2Cspecs.thunderbolt.prefetchComponentsShapesInBecky:true%2Cspecs.thunderbolt.inflatePresetsWithNoDefaultItems:true%2Cspecs.thunderbolt.maskImageCSS:true&contentType=application%2Fjson&deviceType=Desktop&dfCk=6&dfVersion=1.1581.0&excludedSafariOrIOS=false&experiments=aaa-rotem-test-fatafixer%2Cbv_removeMenuDataFromPageJson%2Cbv_remove_add_chat_viewer_fixer%2Cdm_enableDefaultA11ySettings%2Cdm_fixStylableButtonProperties%2Cdm_fixVectorImageProperties%2Cdm_linkRelDefaults%2Cdm_migrateToTextTheme&externalBaseUrl=https:%2F%2Fwww.lsrgrowth.com&fileId=27de6b55.bundle.min&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isMultilingualEnabled=false&isPremiumDomain=true&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=en&languageResolutionMethod=QueryParam&metaSiteId=0d5ac8cd-9c11-419f-b569-a2e36c4dc0e1&module=thunderbolt-features&originalLanguage=en&pageId=b2bb1c_e4520a866543900190018de01719f829_153.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.8014.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.8014.0"}]&remoteWidgetStructureBuilderVersion=1.229.0&siteId=d12c26e8-a588-43b9-bdd7-3b61d0b18a15&siteRevision=153&staticHTMLComponentUrl=https:%2F%2Fwww-lsrgrowth-com.filesusr.com%2F&useSandboxInHTMLComp=false&viewMode=desktop
+File Name: C:\New\www.lsrgrowth.com\pages\pages\thunderbolt-3
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?beckyExperiments=specs.thunderbolt.oneCellGridMinMax:true%2Cspecs.thunderbolt.responsiveAbsoluteChildrenPosition:true%2Cspecs.thunderbolt.byRefV2:true%2Cspecs.thunderbolt.DatePickerPortal:true%2Cspecs.thunderbolt.LinkBarPlaceholderImages:true%2Cspecs.thunderbolt.carmi_simple_mode:true%2Cspecs.thunderbolt.final_image_auto_encode:true%2Cspecs.thunderbolt.prefetchComponentsShapesInBecky:true%2Cspecs.thunderbolt.inflatePresetsWithNoDefaultItems:true%2Cspecs.thunderbolt.maskImageCSS:true&contentType=application%2Fjson&dfCk=6&dfVersion=1.1581.0&excludedSafariOrIOS=false&experiments=aaa-rotem-test-fatafixer%2Cbv_removeMenuDataFromPageJson%2Cbv_remove_add_chat_viewer_fixer%2Cdm_enableDefaultA11ySettings%2Cdm_fixStylableButtonProperties%2Cdm_fixVectorImageProperties%2Cdm_linkRelDefaults%2Cdm_migrateToTextTheme&externalBaseUrl=https:%2F%2Fwww.lsrgrowth.com&fileId=06a820dc.bundle.min&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isPremiumDomain=true&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=en&metaSiteId=0d5ac8cd-9c11-419f-b569-a2e36c4dc0e1&module=thunderbolt-platform&originalLanguage=en&pageId=b2bb1c_df4c6da14a8956f30885ddcb087fa53c_153.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.8014.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.8014.0"}]&remoteWidgetStructureBuilderVersion=1.229.0&siteId=d12c26e8-a588-43b9-bdd7-3b61d0b18a15&siteRevision=153&viewMode=desktop
+File Name: C:\New\www.lsrgrowth.com\pages\pages\thunderbolt
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?beckyExperiments=specs.thunderbolt.oneCellGridMinMax:true%2Cspecs.thunderbolt.responsiveAbsoluteChildrenPosition:true%2Cspecs.thunderbolt.byRefV2:true%2Cspecs.thunderbolt.DatePickerPortal:true%2Cspecs.thunderbolt.LinkBarPlaceholderImages:true%2Cspecs.thunderbolt.carmi_simple_mode:true%2Cspecs.thunderbolt.final_image_auto_encode:true%2Cspecs.thunderbolt.prefetchComponentsShapesInBecky:true%2Cspecs.thunderbolt.inflatePresetsWithNoDefaultItems:true%2Cspecs.thunderbolt.maskImageCSS:true&contentType=application%2Fjson&dfCk=6&dfVersion=1.1581.0&excludedSafariOrIOS=false&experiments=aaa-rotem-test-fatafixer%2Cbv_removeMenuDataFromPageJson%2Cbv_remove_add_chat_viewer_fixer%2Cdm_enableDefaultA11ySettings%2Cdm_fixStylableButtonProperties%2Cdm_fixVectorImageProperties%2Cdm_linkRelDefaults%2Cdm_migrateToTextTheme&externalBaseUrl=https:%2F%2Fwww.lsrgrowth.com&fileId=06a820dc.bundle.min&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isPremiumDomain=true&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=en&metaSiteId=0d5ac8cd-9c11-419f-b569-a2e36c4dc0e1&module=thunderbolt-platform&originalLanguage=en&pageId=b2bb1c_e4520a866543900190018de01719f829_153.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.8014.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.8014.0"}]&remoteWidgetStructureBuilderVersion=1.229.0&siteId=d12c26e8-a588-43b9-bdd7-3b61d0b18a15&siteRevision=153&viewMode=desktop
+File Name: C:\New\www.lsrgrowth.com\pages\pages\thunderbolt-1
+Content Type: application/json
+
+Uri: https://static.parastorage.com/client/pfavico.ico
+File Name: C:\New\www.lsrgrowth.com\client\pfavico.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://static.parastorage.com/services/santa-resources/resources/viewer/user-site-fonts/fonts/Avenir_Family_Pack/v1/AvenirLTW05-85Heavy.woff
+File Name: C:\New\www.lsrgrowth.com\services\santa-resources\resources\viewer\user-site-fonts\fonts\Avenir_Family_Pack\v1\AvenirLTW05-85Heavy.woff
+Content Type: application/font-woff
+
+Uri: https://static.parastorage.com/services/santa-resources/resources/viewer/user-site-fonts/fonts/Avenir_Family_Pack/v1/AvenirLTW05-85Heavy.woff2
+File Name: C:\New\www.lsrgrowth.com\services\santa-resources\resources\viewer\user-site-fonts\fonts\Avenir_Family_Pack\v1\AvenirLTW05-85Heavy.woff2
+Content Type: application/octet-stream
+
+Uri: https://static.parastorage.com/services/tag-manager-client/1.427.0/siteTags.bundle.min.js
+File Name: C:\New\www.lsrgrowth.com\services\tag-manager-client\1.427.0\siteTags.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/03805817-4611-4dbc-8c65-0f73031c3973.woff
+File Name: C:\New\www.lsrgrowth.com\services\third-party\fonts\user-site-fonts\fonts\03805817-4611-4dbc-8c65-0f73031c3973.woff
+Content Type: application/x-font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/05ad458f-263b-413f-b054-6001a987ff3e.svg
+File Name: C:\New\www.lsrgrowth.com\services\third-party\fonts\user-site-fonts\fonts\05ad458f-263b-413f-b054-6001a987ff3e.svg
+Content Type: image/svg+xml
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/20577853-40a7-4ada-a3fb-dd6e9392f401.svg
+File Name: C:\New\www.lsrgrowth.com\services\third-party\fonts\user-site-fonts\fonts\20577853-40a7-4ada-a3fb-dd6e9392f401.svg
+Content Type: image/svg+xml
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/4021a3b9-f782-438b-aeb4-c008109a8b64.woff
+File Name: C:\New\www.lsrgrowth.com\services\third-party\fonts\user-site-fonts\fonts\4021a3b9-f782-438b-aeb4-c008109a8b64.woff
+Content Type: application/x-font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/61bd362e-7162-46bd-b67e-28f366c4afbe.woff
+File Name: C:\New\www.lsrgrowth.com\services\third-party\fonts\user-site-fonts\fonts\61bd362e-7162-46bd-b67e-28f366c4afbe.woff
+Content Type: application/x-font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/669f79ed-002c-4ff6-965c-9da453968504.ttf
+File Name: C:\New\www.lsrgrowth.com\services\third-party\fonts\user-site-fonts\fonts\669f79ed-002c-4ff6-965c-9da453968504.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/66cac56e-d017-4544-9d0c-f7d978f0c5c2.svg
+File Name: C:\New\www.lsrgrowth.com\services\third-party\fonts\user-site-fonts\fonts\66cac56e-d017-4544-9d0c-f7d978f0c5c2.svg
+Content Type: image/svg+xml
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/686a6a06-e711-4bd2-b393-8504a497bb3c.eot?
+File Name: C:\New\www.lsrgrowth.com\services\third-party\fonts\user-site-fonts\fonts\686a6a06-e711-4bd2-b393-8504a497bb3c.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/6af9989e-235b-4c75-8c08-a83bdaef3f66.eot?
+File Name: C:\New\www.lsrgrowth.com\services\third-party\fonts\user-site-fonts\fonts\6af9989e-235b-4c75-8c08-a83bdaef3f66.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/6f8d1983-4d34-4fa4-9110-988f6c495757.woff
+File Name: C:\New\www.lsrgrowth.com\services\third-party\fonts\user-site-fonts\fonts\6f8d1983-4d34-4fa4-9110-988f6c495757.woff
+Content Type: application/x-font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/717f8140-20c9-4892-9815-38b48f14ce2b.eot?
+File Name: C:\New\www.lsrgrowth.com\services\third-party\fonts\user-site-fonts\fonts\717f8140-20c9-4892-9815-38b48f14ce2b.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/7903ee3f-e9ab-4bdc-b7d2-d232de2da580.ttf
+File Name: C:\New\www.lsrgrowth.com\services\third-party\fonts\user-site-fonts\fonts\7903ee3f-e9ab-4bdc-b7d2-d232de2da580.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/7da02f05-ae8b-43a1-aeb9-83b3c0527c06.ttf
+File Name: C:\New\www.lsrgrowth.com\services\third-party\fonts\user-site-fonts\fonts\7da02f05-ae8b-43a1-aeb9-83b3c0527c06.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/80c34ad2-27c2-4d99-90fa-985fd64ab81a.woff
+File Name: C:\New\www.lsrgrowth.com\services\third-party\fonts\user-site-fonts\fonts\80c34ad2-27c2-4d99-90fa-985fd64ab81a.woff
+Content Type: application/x-font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/92c941ea-2b06-4b72-9165-17476d424d6c.svg
+File Name: C:\New\www.lsrgrowth.com\services\third-party\fonts\user-site-fonts\fonts\92c941ea-2b06-4b72-9165-17476d424d6c.svg
+Content Type: image/svg+xml
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/9c58e9ea-fdea-4b9c-b0f9-0a2157389ed0.svg
+File Name: C:\New\www.lsrgrowth.com\services\third-party\fonts\user-site-fonts\fonts\9c58e9ea-fdea-4b9c-b0f9-0a2157389ed0.svg
+Content Type: image/svg+xml
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/b56b944e-bbe0-4450-a241-de2125d3e682.woff
+File Name: C:\New\www.lsrgrowth.com\services\third-party\fonts\user-site-fonts\fonts\b56b944e-bbe0-4450-a241-de2125d3e682.woff
+Content Type: application/x-font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/b8cb02c2-5b58-48d8-9501-8d02869154c2.ttf
+File Name: C:\New\www.lsrgrowth.com\services\third-party\fonts\user-site-fonts\fonts\b8cb02c2-5b58-48d8-9501-8d02869154c2.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/ccd17c6b-e7ed-4b73-b0d2-76712a4ef46b.ttf
+File Name: C:\New\www.lsrgrowth.com\services\third-party\fonts\user-site-fonts\fonts\ccd17c6b-e7ed-4b73-b0d2-76712a4ef46b.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/d17bc040-9e8b-4397-8356-8153f4a64edf.svg
+File Name: C:\New\www.lsrgrowth.com\services\third-party\fonts\user-site-fonts\fonts\d17bc040-9e8b-4397-8356-8153f4a64edf.svg
+Content Type: image/svg+xml
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/d513e15e-8f35-4129-ad05-481815e52625.woff2
+File Name: C:\New\www.lsrgrowth.com\services\third-party\fonts\user-site-fonts\fonts\d513e15e-8f35-4129-ad05-481815e52625.woff2
+Content Type: application/octet-stream
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/d5f9f72d-afb7-4c57-8348-b4bdac42edbb.ttf
+File Name: C:\New\www.lsrgrowth.com\services\third-party\fonts\user-site-fonts\fonts\d5f9f72d-afb7-4c57-8348-b4bdac42edbb.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/e4bd4516-4480-43df-aa6e-4e9b9029f53e.eot?
+File Name: C:\New\www.lsrgrowth.com\services\third-party\fonts\user-site-fonts\fonts\e4bd4516-4480-43df-aa6e-4e9b9029f53e.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/ea95b44a-eab7-4bd1-861c-e73535e7f652.eot?
+File Name: C:\New\www.lsrgrowth.com\services\third-party\fonts\user-site-fonts\fonts\ea95b44a-eab7-4bd1-861c-e73535e7f652.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/ff80873b-6ac3-44f7-b029-1b4111beac76.eot?
+File Name: C:\New\www.lsrgrowth.com\services\third-party\fonts\user-site-fonts\fonts\ff80873b-6ac3-44f7-b029-1b4111beac76.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/open-source/opensans-bold-webfont.eot
+File Name: C:\New\www.lsrgrowth.com\services\third-party\fonts\user-site-fonts\fonts\open-source\opensans-bold-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/open-source/opensans-bold-webfont.eot?
+File Name: C:\New\www.lsrgrowth.com\services\third-party\fonts\user-site-fonts\fonts\open-source\opensans-bold-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/open-source/opensans-bold-webfont.svg
+File Name: C:\New\www.lsrgrowth.com\services\third-party\fonts\user-site-fonts\fonts\open-source\opensans-bold-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/open-source/opensans-bold-webfont.ttf
+File Name: C:\New\www.lsrgrowth.com\services\third-party\fonts\user-site-fonts\fonts\open-source\opensans-bold-webfont.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/open-source/opensans-bold-webfont.woff
+File Name: C:\New\www.lsrgrowth.com\services\third-party\fonts\user-site-fonts\fonts\open-source\opensans-bold-webfont.woff
+Content Type: application/x-font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/open-source/opensans-bolditalic-webfont.eot
+File Name: C:\New\www.lsrgrowth.com\services\third-party\fonts\user-site-fonts\fonts\open-source\opensans-bolditalic-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/open-source/opensans-bolditalic-webfont.eot?
+File Name: C:\New\www.lsrgrowth.com\services\third-party\fonts\user-site-fonts\fonts\open-source\opensans-bolditalic-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/open-source/opensans-bolditalic-webfont.svg
+File Name: C:\New\www.lsrgrowth.com\services\third-party\fonts\user-site-fonts\fonts\open-source\opensans-bolditalic-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/open-source/opensans-bolditalic-webfont.ttf
+File Name: C:\New\www.lsrgrowth.com\services\third-party\fonts\user-site-fonts\fonts\open-source\opensans-bolditalic-webfont.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/open-source/opensans-bolditalic-webfont.woff
+File Name: C:\New\www.lsrgrowth.com\services\third-party\fonts\user-site-fonts\fonts\open-source\opensans-bolditalic-webfont.woff
+Content Type: application/x-font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/open-source/opensans-italic-webfont.eot
+File Name: C:\New\www.lsrgrowth.com\services\third-party\fonts\user-site-fonts\fonts\open-source\opensans-italic-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/open-source/opensans-italic-webfont.eot?
+File Name: C:\New\www.lsrgrowth.com\services\third-party\fonts\user-site-fonts\fonts\open-source\opensans-italic-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/open-source/opensans-italic-webfont.svg
+File Name: C:\New\www.lsrgrowth.com\services\third-party\fonts\user-site-fonts\fonts\open-source\opensans-italic-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/open-source/opensans-italic-webfont.ttf
+File Name: C:\New\www.lsrgrowth.com\services\third-party\fonts\user-site-fonts\fonts\open-source\opensans-italic-webfont.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/open-source/opensans-italic-webfont.woff
+File Name: C:\New\www.lsrgrowth.com\services\third-party\fonts\user-site-fonts\fonts\open-source\opensans-italic-webfont.woff
+Content Type: application/x-font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/open-source/opensans-regular-webfont.eot
+File Name: C:\New\www.lsrgrowth.com\services\third-party\fonts\user-site-fonts\fonts\open-source\opensans-regular-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/open-source/opensans-regular-webfont.eot?
+File Name: C:\New\www.lsrgrowth.com\services\third-party\fonts\user-site-fonts\fonts\open-source\opensans-regular-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/open-source/opensans-regular-webfont.svg
+File Name: C:\New\www.lsrgrowth.com\services\third-party\fonts\user-site-fonts\fonts\open-source\opensans-regular-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/open-source/opensans-regular-webfont.ttf
+File Name: C:\New\www.lsrgrowth.com\services\third-party\fonts\user-site-fonts\fonts\open-source\opensans-regular-webfont.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/open-source/opensans-regular-webfont.woff
+File Name: C:\New\www.lsrgrowth.com\services\third-party\fonts\user-site-fonts\fonts\open-source\opensans-regular-webfont.woff
+Content Type: application/x-font-woff
+
+Uri: https://static.parastorage.com/services/wix-perf-measure/1.721.0/wix-perf-measure.bundle.min.js
+File Name: C:\New\www.lsrgrowth.com\services\wix-perf-measure\1.721.0\wix-perf-measure.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/services/wix-thunderbolt/dist/bootstrap-features.17bcb53e.bundle.min.js
+File Name: C:\New\www.lsrgrowth.com\services\wix-thunderbolt\dist\bootstrap-features.17bcb53e.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/services/wix-thunderbolt/dist/main.6352dd0f.bundle.min.js
+File Name: C:\New\www.lsrgrowth.com\services\wix-thunderbolt\dist\main.6352dd0f.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/unpkg/core-js-bundle@3.2.1/minified.js
+File Name: C:\New\www.lsrgrowth.com\unpkg\core-js-bundle@3.2.1\minified.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/unpkg/focus-within-polyfill@5.0.9/dist/focus-within-polyfill.js
+File Name: C:\New\www.lsrgrowth.com\unpkg\focus-within-polyfill@5.0.9\dist\focus-within-polyfill.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/unpkg/lodash@4.17.21/lodash.min.js
+File Name: C:\New\www.lsrgrowth.com\unpkg\lodash@4.17.21\lodash.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/unpkg/react-dom@16.13.1/umd/react-dom.production.min.js
+File Name: C:\New\www.lsrgrowth.com\unpkg\react-dom@16.13.1\umd\react-dom.production.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/unpkg/react@16.13.1/umd/react.production.min.js
+File Name: C:\New\www.lsrgrowth.com\unpkg\react@16.13.1\umd\react.production.min.js
+Content Type: application/javascript
+
+Uri: https://static.wixstatic.com/media/5bfb6f_c9a631e8e43443cb9d7ad97133d9d83d.jpg/v1/fill/w_245,h_138,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/5bfb6f_c9a631e8e43443cb9d7ad97133d9d83d.jpg
+File Name: C:\New\www.lsrgrowth.com\media\5bfb6f_c9a631e8e43443cb9d7ad97133d9d83d.jpg\v1\fill\w_245,h_138,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto\5bfb6f_c9a631e8e43443cb9d7ad97133d9d83d.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/b2bb1c_141a598490e34335be01779ddd4b2bb8~mv2_d_5120_3200_s_4_2.jpg/v1/fill/w_245,h_153,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/b2bb1c_141a598490e34335be01779ddd4b2bb8~mv2_d_5120_3200_s_4_2.jpg
+File Name: C:\New\www.lsrgrowth.com\media\b2bb1c_141a598490e34335be01779ddd4b2bb8~mv2_d_5120_3200_s_4_2.jpg\v1\fill\w_245,h_153,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto\b2bb1c_141a598490e34335be01779ddd4b2bb8~mv2_d_5120_3200_s_4_2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/b2bb1c_5b23387d2d224926840c009b38f158d7~mv2.jpg/v1/fill/w_160,h_78,al_c,q_80,usm_0.66_1.00_0.01,blur_3,enc_auto/lsr_logo.jpg
+File Name: C:\New\www.lsrgrowth.com\media\b2bb1c_5b23387d2d224926840c009b38f158d7~mv2.jpg\v1\fill\w_160,h_78,al_c,q_80,usm_0.66_1.00_0.01,blur_3,enc_auto\lsr_logo.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/b2bb1c_966b4d4508484010aa8fd0c3300885e9~mv2_d_4300_3010_s_4_2.jpg/v1/fill/w_245,h_172,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/b2bb1c_966b4d4508484010aa8fd0c3300885e9~mv2_d_4300_3010_s_4_2.jpg
+File Name: C:\New\www.lsrgrowth.com\media\b2bb1c_966b4d4508484010aa8fd0c3300885e9~mv2_d_4300_3010_s_4_2.jpg\v1\fill\w_245,h_172,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto\b2bb1c_966b4d4508484010aa8fd0c3300885e9~mv2_d_4300_3010_s_4_2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/dbbdc91820535cbbeb0664011cb93255.png/v1/fill/w_32,h_16,al_c,usm_0.66_1.00_0.01,blur_3,enc_auto/dbbdc91820535cbbeb0664011cb93255.png
+File Name: C:\New\www.lsrgrowth.com\media\dbbdc91820535cbbeb0664011cb93255.png\v1\fill\w_32,h_16,al_c,usm_0.66_1.00_0.01,blur_3,enc_auto\dbbdc91820535cbbeb0664011cb93255.png
+Content Type: image/png
+
+Uri: https://www.lsrgrowth.com/
+File Name: C:\New\www.lsrgrowth.com\index.htm
+Content Type: text/html
+

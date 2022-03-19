@@ -1,0 +1,425 @@
+body{
+  background: #f0f0f0;
+}
+@media (min-width: 768px) {
+    /*.container-small {
+        max-width: 800px;
+    }*/
+}
+@media (min-width: 992px) {
+    .itil-container-fluid {
+        width: 800px;
+        max-width:100%;
+    }
+    .itil-container {
+      width: 560px;
+      max-width: 100%;
+  }
+}
+@media (min-width: 1200px) {
+    .itil-container-fluid {
+        width: 800px;
+        max-width:100%;
+    }
+    .itil-container {
+    	width: 560px;
+    	max-width: 100%;
+	}
+}
+/*@media (min-width: 576px) {
+	.itil-container-fluid {
+    
+    	max-width: 100%;
+    	width: 100%;
+	}
+	.itil-container {
+    
+    max-width: 100%;
+    width: 100%;
+	}
+	
+
+}*/
+@media (min-width: 320px) and (max-width: 575px) {
+  
+  /*.itil-container-fluid {
+    
+    	max-width: 100%;
+    	width: 320px;
+	}
+	.itil-container {
+    
+    max-width: 100%;
+    width: 320px;
+  
+}*/
+.nav-tabs li a {
+    padding: 10px 5px!important;
+    font-size: 9px!important;
+  }
+
+}
+
+/*.itil-container-fluid{
+    background: url(../images/slider.png) no-repeat scroll 0 0;
+    max-width: 100%;
+    display: block;
+    min-height: 600px;
+    background-size: cover;
+    background-position: center center;
+}*/
+.bg-overlay {
+    background: linear-gradient(rgba(255,255,255,.8), rgba(255,255,255,.8)), url("../images/banner-new.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    color: #fff;
+    height: 700px;
+    padding-top: 10px;
+}
+
+.bg-no-overlay {
+    background: url("../images/banner-new.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    color: #fff;
+    height: 600px;
+    padding-top: 10px;
+}
+
+
+#slider-container {
+	
+    height: 265px;
+    line-height: 265px;
+    margin: 0 auto;
+}
+
+#slider-container img {
+    /*vertical-align: middle;
+    width: 100%;
+    margin: 0 auto;
+    display: block;
+    height: 265px;*/
+
+    vertical-align: middle;
+    max-width: 100%;
+    margin: 0 auto;
+    display: block;
+    height: 100%;
+    width: 100%;
+    min-height: 100%;
+}
+
+
+
+
+
+
+
+
+
+      /*counter*/
+      .days {
+  font-size: 36px;
+  color: red;
+}
+.hours {
+  font-size: 36px;
+  color: red;
+}
+.minutes {
+  font-size: 36px;
+  color: red;
+}
+.seconds {
+  font-size: 36px;
+  color: red;
+}
+
+#timer{
+  width: 100%;
+  text-align: center;
+}
+
+.gsda-timer {
+  display: inline-block;
+  line-height: 30px;
+  padding: 0px 15px;
+  font-size: 36px;
+}
+
+h2.gsda-counter-header {
+    font-size: 16px;
+    margin: 0 auto;
+    padding: 15px 0px;
+    color: #101010;
+    font-weight: bold;
+    text-align: center;
+}
+
+.gsda-timer span {
+  display: block;
+  font-size: 16px;
+  color: #101010;
+  font-weight: 900;
+  text-align: center;
+}
+
+
+
+.itil-border {
+    border-bottom: 3px solid #63c4e0;
+    padding: 10px 0px 12px 0px;
+    background: #fff;
+}
+
+
+
+
+.partner-img {
+    width: 100%;
+    /*padding: 26px 0px;*/
+}
+.content p {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22px;
+    text-align: justify;
+}
+.p-t-40{
+  padding-top: 40px;
+}
+.author-img img {
+    width: 50%;
+}
+
+.review {
+    padding-right: 30px;
+}
+
+
+.span-color{
+  color:#0078ae;
+  font-weight: 700;
+}
+.enroll-button{
+  margin: 5px auto;
+  width: 63%;
+  padding: 12px 15px;
+  text-align: center;
+  border-radius: 0px;
+  font-size: 22px;
+  line-height: 22px;
+  font-weight: 500;
+  background: #1fa064;
+}
+.enroll-button-big{
+  width: 100%;
+}
+.enroll-btn-sub-header{
+  font-size: 10px;
+  line-height: 10px; 
+  font-weight: 300; 
+  color: #fff;
+}
+.counter-section{
+  margin: 0 auto;
+}
+.partner-parent{
+  padding: 20px 15px;
+}
+.list-check {
+    color: #fff;
+    background: #82c140;
+    border-radius: 100px;
+    padding: 3px;
+}
+.course-module h2 {
+    padding-top: 60px;
+    padding-bottom: 15px;
+    font-size: 22px;
+    font-weight: 600;
+    line-height: 22px;
+    color: #000;
+}
+.course-module h3 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 20px;
+}
+.course-module h4 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 18px;
+}
+
+
+/*Tabs*/
+.tile
+{
+  /*width:80%;*/
+  margin: 0 auto;
+  padding-top: 60px;
+}
+.tab-pane
+{
+  padding:0px;/*
+  height:300px;*/
+}
+.nav-tabs
+{
+  position:relative;
+  border:none!important;
+  background-color:#fff;
+  box-shadow: 0 2px 2px 0 rgba(0,0,0,0.14), 0 1px 5px 0 rgba(0,0,0,0.12), 0 3px 1px -2px rgba(0,0,0,0.2);
+  /*border-radius:6px;*/
+}
+.nav-tabs li
+{
+  margin:0px!important;
+}
+.nav-tabs li a
+{
+  position:relative;
+  margin-right:0px!important;
+  padding: 20px 10px!important;
+  font-size:16px;
+  border:none!important;
+  color:#333;
+}
+.nav-tabs a:hover
+{
+  background-color:#fff!important;
+  border:none;
+}
+.slider0
+{
+  display:inline-block;
+  width:30px;
+  height:4px;
+  border-radius:3px;
+  /*background-color:#dc3545;*/
+  position:absolute;
+  z-index:1200;
+  bottom:0;
+  transition:all .4s linear;
+  
+}
+.nav-tabs .active
+{
+  background-color:transparent!important;
+  border:none!important;
+  /*color:#dc3545!important;*/
+}
+
+
+
+
+
+
+
+
+
+.greview{
+  background: #0076ad;
+  padding: 30px 0px;
+  margin:15px auto;
+  border-bottom: 3px solid #2bb9dc;
+}
+.review > h2 {
+    color: #2bb9dc!important;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 18px;
+}
+.p-normal {
+    font-style: normal;
+    font-size: 14px;
+    color: #fff;
+}
+.p-normal-bold {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    color: #fff;
+}
+.p-italic {
+    font-style: italic;
+    font-weight: 300;
+    font-size: 14px;
+    color: #fff;
+}
+.review-img{
+  width: 85%;
+  border-radius: 100px;
+  margin: 0px 20px;
+}
+.opportunity-banner {
+    width: 70%;
+}
+.opportunity-header{
+  color:#fff;
+  font-size: 14px;
+  padding: 0px 90px;
+  font-weight: 300;
+}
+.about-img {
+    width: 100%;
+}
+.about-content h2 {
+    font-size:  20px;
+    font-weight:  700;
+}
+
+.about-content p {
+    font-size:  14px;
+    text-align:  justify;
+    font-weight: 600;
+    color:  #101010;
+}
+.about-row {
+    padding: 30px 0px;
+}
+
+.course-module p {
+    font-size: 14px;
+    font-weight: 700;
+}
+
+
+
+
+
+
+.enroll-link {
+  color: #fff; 
+  text-decoration: none;
+}
+.enroll-button:hover {
+  background: #1fa064;
+}
+.enroll-link:hover {
+  color: #fff; 
+  text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+.img-border{
+    /*border: 1px inset #101010;*/
+    /*padding:7px;*/
+    width:20%;
+}
